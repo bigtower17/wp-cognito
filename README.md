@@ -2,7 +2,7 @@
 
 A WordPress plugin that provides direct authentication with AWS Cognito without using the Hosted UI, featuring a modern, customizable login interface.
 
-![Login Screen](Screenshot.png)
+![Login Screen](Screenshot%20Demo.png)
 
 ## Features
 
@@ -77,10 +77,10 @@ Default role for users without mapped groups: `subscriber`
 ## Screenshots
 
 ### Login Interface
-![Login Interface](Screenshot.png)
+![Login Interface](Screenshot%20Demo.png)
 
 ### Admin Settings
-![Admin Demo](Screenshot%20Demo.png)
+![Admin Demo](Screenshot.png)
 
 ## Customization
 
